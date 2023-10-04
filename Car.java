@@ -1,6 +1,7 @@
 public class Car {
 public static void printSpeed(int speed)
 {
+// print speed
 System.out.println("Speed:"+speed);
 }
 }
